@@ -2,12 +2,13 @@
 
 - 🌱 Estudando JavaScript
 - 😄 Pronomes: Ela/Dela
+
 ##
 
 <div align="center">
   <a href="https://github.com/LauraFaustino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauraFaustino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraFaustino&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LauraFaustino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraFaustino&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
