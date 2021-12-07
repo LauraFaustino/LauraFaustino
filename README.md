@@ -1,12 +1,14 @@
-### Oie! sou a Laura Rodrigues ✨
+# Oie! sou a Laura Rodrigues ✨
 
 ##
 
 
-<div>
+<div align="center">
   <a href="https://github.com/LauraFaustino">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=LauraFaustino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraFaustino&layout=compact&langs_count=7&theme=tokyonight"  />
+    <img height="180" width="400" 
+         src="https://github-readme-stats.vercel.app/api?username=LauraFaustino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180" width="400" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraFaustino&layout=compact&langs_count=7&theme=tokyonight"  />
   </div>  
   
   ## Skils 👾
