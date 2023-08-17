@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/LauraFaustino">
-    <img height="170" width="400" 
+    <img height="150" width="400" 
          src="https://github-readme-stats.vercel.app/api?username=LauraFaustino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="169" width="450" 
+    <img height="150" width="450" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraFaustino&layout=compact&langs_count=7&theme=tokyonight"  />
   </a>
 </div>  
