@@ -55,6 +55,6 @@ Estou aberta a oportunidades de colaboração e/ou novos desafios. Entre em cont
 
 - Email: [Clique aqui!](laura.r.faustino@gmail.com)
 - LinkedIn: [Clique aqui!](https://www.linkedin.com/in/lah-faustino/)
-- Portfolio: [em produção pelo @ArandasNyan no projeto #Portfolio]
+- Portfolio: [em produção pelo [@ArandasNyan](https://github.com/ArandasNyan) no projeto #Portfolio]
 
 Ficarei feliz em discutir qualquer oportunidade de colaboração ou projetos interessantes que surgir a mente, desejo muito criar uma ascensão para todas as empresas que eu estou ou que irei passar!
