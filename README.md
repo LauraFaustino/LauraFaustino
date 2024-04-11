@@ -1,26 +1,60 @@
-# Oie! Meu nome é Laura Rodrigues ✨
+<h1 align="center">Laura Faustino</h1>
 
-<div align="center">
-  <a href="https://github.com/LauraFaustino">
-    <img height="150" width="400" 
-         src="https://github-readme-stats.vercel.app/api?username=LauraFaustino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="150" width="400" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraFaustino&layout=compact&langs_count=7&theme=tokyonight"  />
-  </a>
-</div>  
-  
-## Skils 👾
-<div style="display: inline_block">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="JQuery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
-    <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />  
-    <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <br>
-    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    <img align="center" alt="Trello" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
-</div>
+## Sobre mim
+
+Olá! Meu nome é Laura e estou atuando na área desde 2022. Durante minha jornada, adquiri experiência trabalhando com diversas tecnologias, incluindo HTML/CSS, JQuery, PHP, Slim e MySQL.
+
+Atualmente, estou empenhada em aprimorar minhas habilidades e expandir meu conhecimento. Estudo Javascript, React.js, Node.js e C#, além de aprofundar meu entendimento sobre git/github. Meu objetivo é me tornar mais versátil e capaz de enfrentar desafios mais complexos.
+
+Estou cursando Análise e Desenvolvimento de Sistemas no [Senac](https://www.sp.senac.br), buscando solidificar minha base de conhecimento, desenvolver novas habilidades e aprimorar cada vez mais minhas competências.
+
+## O que faço
+
+Atualmente, estou imersa em uma jornada de aprendizado no Senac, explorando e aprimorando minhas habilidades em diversas áreas:
+
+- **Desenvolvimento Web:** Utilizando HTML, CSS e JavaScript para criar experiências envolventes. Também estudo frameworks como AngularJS, Bootstrap e ReactJS para inovar em meus projetos.
+- **Design de Interfaces:** Dedico-me a compreender as necessidades dos usuários e transformá-las em interfaces intuitivas e atraentes, seguindo as melhores práticas de UX/UI.
+- **Gerenciamento Ágil de Projetos:** Liderei equipes na implementação de metodologias como Scrum, XP e Kanban, garantindo entregas de alta qualidade dentro de prazos desafiadores.
+- **Desenvolvimento de Aplicações Distribuídas e Mobile:** Aplico minha paixão por resolver problemas para criar soluções inovadoras e sob medida, utilizando tecnologias como Python, Java, C#, Kotlin, Swift e JavaScript.
+- **Bancos de Dados:** Tenho habilidade em SQL e PL/SQL, estruturando dados de forma eficiente e apoiando estratégias de negócios.
+- **Cloud Computing:** Utilizo tecnologias para implementar e escalar soluções através de web services e RESTful APIs, explorando as infinitas possibilidades oferecidas pela nuvem.
+- **Tecnologias Emergentes:** Busco constantemente expandir meus horizontes explorando tecnologias emergentes como Blockchain, Inteligência Artificial e IoT.
+
+Além disso, estou desenvolvendo um mindset empreendedor, buscando ampliar minhas ideias, resolver problemas e entender as demandas do mercado, com o objetivo final de criar minha própria startup.
+
+## Projetos Destacados
+
+Aqui estão alguns dos meus projetos mais notáveis:
+
+1. **[Monka Chat](https://github.com/LauraFaustino/monkchat)**: Este projeto visa o desenvolvimento de uma aplicação WEB para controle de conversas online, a ser utilizada pedagogicamente no curso Técnico em Informática.
+2. **[Portfolio](#)**: Em breve - Um projeto para ajudar desenvolvedores, fotógrafos, artistas, entre outros, a terem um portfólio intuitivo e atraente, destacando-se com excelência no mercado.
+3. **[Projeto Pendente](#)**: Em breve.
+
+## Tecnologias e Habilidades
+
+- **Linguagens de Programação:**
+  - Php, JavaScript e C#
+
+- **Tecnologias:**
+  - HTML5 / CSS3, React.js, Node.js, Slim, MongoDB, MySQL
+
+- **Ferramentas e Frameworks:**
+  - Git / GitHub, Visual Studio Code, Bootstrap, Postman, Express.js, MySQL WorkBench, Trello
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LauraFaustino&show_icons=true)
+
+## Linguagens Mais Utilizadas
+
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraFaustino&layout=compact)
+
+## Como Entrar em Contato
+
+Estou aberta a oportunidades de colaboração e/ou novos desafios. Entre em contato comigo nas seguintes plataformas:
+
+- Email: [Clique aqui!](laura.r.faustino@gmail.com)
+- LinkedIn: [Clique aqui!](https://www.linkedin.com/in/lah-faustino/)
+- Portfolio: [em produção pelo @ArandasNyan no projeto #Portfolio]
+
+Ficarei feliz em discutir qualquer oportunidade de colaboração ou projetos interessantes que surgir a mente, desejo muito criar uma ascensão para todas as empresas que eu estou ou que irei passar!
