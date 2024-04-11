@@ -14,7 +14,7 @@ Atualmente, estou imersa em uma jornada de aprendizado no Senac, explorando e ap
 
 - **Desenvolvimento Web:** Utilizando HTML, CSS e JavaScript para criar experiências envolventes. Também estudo frameworks como AngularJS, Bootstrap e ReactJS para inovar em meus projetos.
 - **Design de Interfaces:** Dedico-me a compreender as necessidades dos usuários e transformá-las em interfaces intuitivas e atraentes, seguindo as melhores práticas de UX/UI.
-- **Bancos de Dados:** Tenho habilidade em SQL e PL/SQL, estruturando dados de forma eficiente e apoiando estratégias de negócios.
+- **Bancos de Dados:** Tenho habilidade em SQL, estruturando dados de forma eficiente e apoiando estratégias de negócios.
 
 Além disso, estou desenvolvendo um mindset empreendedor, buscando ampliar minhas ideias, resolver problemas e entender as demandas do mercado, com o objetivo final de criar minha própria startup.
 
@@ -35,7 +35,7 @@ Aqui estão alguns dos meus projetos mais notáveis:
   - HTML5 / CSS3, React.js, Node.js, Slim, MongoDB, MySQL
 
 - **Ferramentas e Frameworks:**
-  - Git / GitHub, Visual Studio Code, Bootstrap, Postman, Express.js, MySQL WorkBench, Trello
+  - Git / GitHub, Visual Studio Code, Bootstrap, Postman, MySQL WorkBench, Trello
 
 ## Estatísticas do GitHub
 
