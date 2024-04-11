@@ -14,11 +14,7 @@ Atualmente, estou imersa em uma jornada de aprendizado no Senac, explorando e ap
 
 - **Desenvolvimento Web:** Utilizando HTML, CSS e JavaScript para criar experiências envolventes. Também estudo frameworks como AngularJS, Bootstrap e ReactJS para inovar em meus projetos.
 - **Design de Interfaces:** Dedico-me a compreender as necessidades dos usuários e transformá-las em interfaces intuitivas e atraentes, seguindo as melhores práticas de UX/UI.
-- **Gerenciamento Ágil de Projetos:** Liderei equipes na implementação de metodologias como Scrum, XP e Kanban, garantindo entregas de alta qualidade dentro de prazos desafiadores.
-- **Desenvolvimento de Aplicações Distribuídas e Mobile:** Aplico minha paixão por resolver problemas para criar soluções inovadoras e sob medida, utilizando tecnologias como Python, Java, C#, Kotlin, Swift e JavaScript.
 - **Bancos de Dados:** Tenho habilidade em SQL e PL/SQL, estruturando dados de forma eficiente e apoiando estratégias de negócios.
-- **Cloud Computing:** Utilizo tecnologias para implementar e escalar soluções através de web services e RESTful APIs, explorando as infinitas possibilidades oferecidas pela nuvem.
-- **Tecnologias Emergentes:** Busco constantemente expandir meus horizontes explorando tecnologias emergentes como Blockchain, Inteligência Artificial e IoT.
 
 Além disso, estou desenvolvendo um mindset empreendedor, buscando ampliar minhas ideias, resolver problemas e entender as demandas do mercado, com o objetivo final de criar minha própria startup.
 
@@ -33,7 +29,7 @@ Aqui estão alguns dos meus projetos mais notáveis:
 ## Tecnologias e Habilidades
 
 - **Linguagens de Programação:**
-  - Php, JavaScript e C#
+  - PHP, JavaScript e C#
 
 - **Tecnologias:**
   - HTML5 / CSS3, React.js, Node.js, Slim, MongoDB, MySQL
@@ -43,11 +39,11 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LauraFaustino&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LauraFaustino&show_icons=true&theme=tokyonight)
 
 ## Linguagens Mais Utilizadas
 
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraFaustino&layout=compact)
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraFaustino&layout=compact&theme=tokyonight)
 
 ## Como Entrar em Contato
 
