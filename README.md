@@ -16,7 +16,7 @@ Atualmente, estou imersa em uma jornada de aprendizado no Senac, explorando e ap
 - **Design de Interfaces:** Dedico-me a compreender as necessidades dos usuários e transformá-las em interfaces intuitivas e atraentes, seguindo as melhores práticas de UX/UI.
 - **Bancos de Dados:** Tenho habilidade em SQL, estruturando dados de forma eficiente e apoiando estratégias de negócios.
 
-Além disso, estou desenvolvendo um mindset empreendedor, buscando ampliar minhas ideias, resolver problemas e entender as demandas do mercado, com o objetivo final de criar minha própria startup.
+Além disso, estou desenvolvendo um mindset empreendedor, buscando ampliar minhas ideias, resolver problemas e entender as demandas do mercado.
 
 ## Projetos Destacados
 
