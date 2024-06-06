@@ -2,10 +2,7 @@
 
 ## Sobre mim
 
-Olá! Meu nome é Laura e estou atuando na área desde 2022. Durante minha jornada, adquiri experiência trabalhando com diversas tecnologias, incluindo HTML/CSS, JQuery, PHP, Slim e MySQL.
-
-Atualmente, estou empenhada em aprimorar minhas habilidades e expandir meu conhecimento. Estudo Javascript, React.js, Node.js e C#, além de aprofundar meu entendimento sobre git/github. Meu objetivo é me tornar mais versátil e capaz de enfrentar desafios mais complexos.
-
+Olá! Meu nome é Laura. Tenho experiência com HTML/CSS, JQuery, PHP e MySQL. Atualmente, estou focada em aprimorar minhas habilidades, estudando JavaScript, a biblioteca React.js e o ambiente Node.js, além de me aprofundar em Git/GitHub para me tornar mais versátil e preparada para enfrentar desafios maiores. 
 Estou cursando Análise e Desenvolvimento de Sistemas no [Senac](https://www.sp.senac.br), buscando solidificar minha base de conhecimento, desenvolver novas habilidades e aprimorar cada vez mais minhas competências.
 
 ## O que faço
