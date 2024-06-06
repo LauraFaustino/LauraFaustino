@@ -46,7 +46,7 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 Estou aberta a oportunidades de colaboração e/ou novos desafios. Entre em contato comigo nas seguintes plataformas:
 
-- Email: [Clique aqui!](laura.r.faustino@gmail.com)
+- Email: laura.r.faustino@gmail.com
 - LinkedIn: [Clique aqui!](https://www.linkedin.com/in/lah-faustino/)
 - Portfolio: [em produção pelo [@ArandasNyan](https://github.com/ArandasNyan) no projeto #Portfolio]
 
